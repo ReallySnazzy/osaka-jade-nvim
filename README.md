@@ -32,6 +32,8 @@ vim.cmd.colorscheme "osaka-jade"
 },
 ```
 
-## Screenshot
+## Screenshots
 
-![Screenshot in Neovim](screenshot.webp)
+![Screenshot 1 in Neovim](screenshot1.webp)
+![Screenshot 2 in Neovim](screenshot2.webp)
+![Screenshot 3 in Neovim](screenshot3.webp)
